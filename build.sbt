@@ -1,6 +1,6 @@
 import scala.language.postfixOps
 
-name := """play-ng"""
+name := """ssea-web-scenario"""
 
 version := "0.1-SNAPSHOT"
 

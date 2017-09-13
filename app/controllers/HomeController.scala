@@ -18,7 +18,7 @@ class HomeController @Inject() (components: ControllerComponents) extends Abstra
    * a path of `/`.
    */
   def index = Action {
-    Ok(views.html.index("Your new Play & Angular 2 application is ready."))
+    Ok(views.html.index("SSEA Scenario"))
   }
 
 }
